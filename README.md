@@ -120,7 +120,8 @@ The devices below are fully feature supported by OpenRazer, which means all avai
 | Razer Viper Ultimate (Wireless)               |  1532:007B  |
 | Razer Basilisk X HyperSpeed                   |  1532:0083  |
 | Razer DeathAdder V2                           |  1532:0084  |
-| Razer Basilisk Ultimate                       |  1532:0086  |
+| Razer Basilisk Ultimate (Wired)               |  1532:0086  |
+| Razer Basilisk Ultimate (Reciever)            |  1532:0086  |
 | Razer Viper Mini                              |  1532:008A  |
 
 ### Mousemats
@@ -144,6 +145,7 @@ The devices below are fully feature supported by OpenRazer, which means all avai
 ### Misc
 | Device                                        | USB VID:PID |
 | --------------------------------------------- | ----------- |
+| Razer Mouse Dock                              |  1532:007E  |
 | Razer Nostromo                                |  1532:0111  |
 | Razer Orbweaver                               |  1532:0113  |
 | Razer Tartarus                                |  1532:0201  |

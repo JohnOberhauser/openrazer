@@ -105,7 +105,6 @@ The devices below are fully feature supported by OpenRazer, which means all avai
 | Razer Lancehead Tournament Edition            |  1532:0060  |
 | Razer Atheris (Receiver)                      |  1532:0062  |
 | Razer Basilisk                                |  1532:0064  |
-| Razer Basilisk Ultimate                       |  1532:0086  |
 | Razer Naga Trinity                            |  1532:0067  |
 | Razer Abyssus Elite (D.Va Edition)            |  1532:006A  |
 | Razer Abyssus Essential                       |  1532:006B  |
@@ -121,6 +120,7 @@ The devices below are fully feature supported by OpenRazer, which means all avai
 | Razer Viper Ultimate (Wireless)               |  1532:007B  |
 | Razer Basilisk X HyperSpeed                   |  1532:0083  |
 | Razer DeathAdder V2                           |  1532:0084  |
+| Razer Basilisk Ultimate                       |  1532:0086  |
 | Razer Viper Mini                              |  1532:008A  |
 
 ### Mousemats

@@ -400,7 +400,7 @@ static ssize_t razer_attr_read_device_type(struct device *dev, struct device_att
         break;
 
     case USB_DEVICE_ID_RAZER_BASILISK_ULTIMATE_RECEIVER:
-        device_type = "Razer Basilisk Ultimate (Receiver)";
+        device_type = "Razer Basilisk Ultimate (Receiver)\n";
         break;
 
     case USB_DEVICE_ID_RAZER_DEATHADDER_V2:

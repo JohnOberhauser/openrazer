@@ -12,7 +12,7 @@ MODULEDIR?=/lib/modules/$(shell uname -r)/kernel/drivers/hid
 PYTHONDIR?=$(shell python3 -c 'import sys; print(sys.path[-1])')
 
 DKMS_NAME?=openrazer-driver
-DKMS_VER?=2.8.4
+DKMS_VER?=2.8.5
 
 
 # Build all target

@@ -2009,8 +2009,6 @@ class RazerBasiliskUltimateWired(__RazerDeviceSpecialBrightnessSuspend):
     HAS_MATRIX = True
     MATRIX_DIMS = [1, 14]
     METHODS = ['get_device_type_mouse', 'max_dpi', 'get_dpi_xy', 'set_dpi_xy', 'get_poll_rate', 'set_poll_rate',
-               # General
-               'get_brightness', 'set_brightness', 'set_static_effect',
                # Battery
                'get_battery', 'is_charging', 'set_idle_time', 'set_low_battery_threshold',
                # Logo
